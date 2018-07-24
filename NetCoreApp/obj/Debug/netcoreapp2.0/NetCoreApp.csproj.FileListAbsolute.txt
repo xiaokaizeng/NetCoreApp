@@ -1,0 +1,11 @@
+c:\users\administrator\source\repos\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\NetCoreApp.deps.json
+c:\users\administrator\source\repos\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\NetCoreApp.runtimeconfig.json
+c:\users\administrator\source\repos\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\NetCoreApp.runtimeconfig.dev.json
+c:\users\administrator\source\repos\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\NetCoreApp.dll
+c:\users\administrator\source\repos\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\NetCoreApp.pdb
+c:\users\administrator\source\repos\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.0\NetCoreApp.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.0\NetCoreApp.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.0\NetCoreApp.AssemblyInfoInputs.cache
+c:\users\administrator\source\repos\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.0\NetCoreApp.AssemblyInfo.cs
+c:\users\administrator\source\repos\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.0\NetCoreApp.dll
+c:\users\administrator\source\repos\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.0\NetCoreApp.pdb
